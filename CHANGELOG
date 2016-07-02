@@ -1,0 +1,18 @@
+HPGL-DXF CHANGELOG
+------------------------
+
+July 03, 2007 00H43;
+	
+	Released initial version of HPGL-DXF
+
+
+July 03, 2007 12H33;
+
+	Released version 0.0.2
+	Added relative pen handling
+	Added floating point handling
+
+
+
+------------------------
+END.
